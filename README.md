@@ -1,6 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
-  <img src="assets/Jay_Dubinsky.jpg" alt="Jay Dubinsky" width="200" style="border-radius: 50%;" />
 
   # Hey there, I'm Jay Dubinsky 👋
   ### Technical Product Leader | Customer Experience Strategist | AI Enthusiast
